@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Web Developer
+email: johncarverhoward@gmail.com
+url: https://jackhowa.github.io
+description: "I want to make your site more accessible."
+skills: "Full-Stack Developer - Product Management - Data Visualization"
+meta_author: Howard Jack
 
 # Google webmaster tools
 google_verify:
@@ -20,19 +20,19 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: jackhowa
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 6C7A89 #lynch http://www.flatuicolorpicker.com/category/new
+  primary-rgb: "108, 122, 137"
+  secondary: F89406 #FD6E8A F89406
+  secondary-dark: F89406 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Jack Howard 
+  location: Chicago 
   social: Around the Web
   credits: Credits
 
@@ -51,8 +51,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: "Chicago, IL"
+  - line: 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
